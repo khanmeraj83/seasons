@@ -2,8 +2,7 @@
   "name": "seasons",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "gh-pages": "^2.0.1",
+  "dependencies": {    
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
